@@ -1,1 +1,1 @@
-This only contains storing of password and generation of the password using tkinter in python
+Password manager project using tkinter and json file handling as welll as exception handling
